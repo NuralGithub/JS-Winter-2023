@@ -6,9 +6,18 @@ let sentence1 = "NPR news, audios, and podcast. Coverage of breaking stories, na
 // let conditionRes = sentence1.lenght > 100
 
 // let conditionRes = sentence1 starts with ("go to");
-
-console.log(sentence1. length>100 || sentence1 ("go to"));
+// sentence1 starts with '' or  'View the latest news'
+let result1 = 25
+let result2 = 35
+console.log(sentence1. length> 25 || sentence1 ("go to"));
+console.log(sentence1. length> 35 || sentence1 ("go to"));
+console.log(`result1 -> ${result1}`);
+console.log ( `/nsentence1 = ${sentence1}`);
 
 let sentence2 = "Go to NBCNews.com for breaking news, videos, and the latest top stories in world news, business, politics, health and pop culture.";
-
+let result3 = 0;
 console.log(sentence2. length>100 || sentence2 ("go to") );
+console.log(`result3 -> $ {result3}`);
+
+
+
