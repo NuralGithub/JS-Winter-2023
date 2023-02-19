@@ -12,7 +12,7 @@ let result2 = 35
 console.log(sentence1. length> 25 || sentence1 ("go to"));
 console.log(sentence1. length> 35 || sentence1 ("go to"));
 console.log(`result1 -> ${result1}`);
-console.log ( `/nsentence1 = ${sentence1}`);
+console.log(`\nsentence1 = ${sentence1}`);
 
 let sentence2 = "Go to NBCNews.com for breaking news, videos, and the latest top stories in world news, business, politics, health and pop culture.";
 let result3 = 0;
